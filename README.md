@@ -13,9 +13,3 @@ A Tableau project analyzing diabetes data, offering insights into trends, risk f
 
 
 
-
-
-
-
-
-
